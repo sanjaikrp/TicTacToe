@@ -27,7 +27,7 @@ The Tic-Tac-Toe Project is a simple and fun game where two players take turns ma
     ```
 2. Navigate to the project directory:
     ```sh
-    cd tictactoe-project
+    cd TicTacToe
     ```
 
 ## Usage
